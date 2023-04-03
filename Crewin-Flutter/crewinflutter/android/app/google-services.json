@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744239967971",
+    "project_id": "firebasefoodproject",
+    "storage_bucket": "firebasefoodproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744239967971:android:b52d496c8c19eae197dfd6",
+        "android_client_info": {
+          "package_name": "com.dh.crewinflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744239967971-b6c4dm2o2v4est1a6bf8g7mh47uo3q2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpyXn-oHke_xNB243fPT_buy84lfoG2tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744239967971-b6c4dm2o2v4est1a6bf8g7mh47uo3q2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
